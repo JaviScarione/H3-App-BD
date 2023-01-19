@@ -1,0 +1,19 @@
+{
+  "name": "reparto_app_bd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviScarione/H3-App-BD.git"
+  },
+  "author": "Javier Scarione",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaviScarione/H3-App-BD/issues"
+  },
+  "homepage": "https://github.com/JaviScarione/H3-App-BD#readme"
+}
